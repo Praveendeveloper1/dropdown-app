@@ -1,0 +1,599 @@
+db.product.insert([
+    {
+        "id": 1,
+        "product_name": "Girls top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 2000,
+        "Size": "Small",
+        "Image": "https://i.ibb.co/fHj5Tgc/download.jpg",
+        "Color": "Maroon",
+        "Brand": "Gucci"
+    },
+    {
+        "id": 2,
+        "product_name": "Girls top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1500,
+        "Size": "Medium",
+        "Image": "https://i.ibb.co/tsXyK5Y/images.jpg",
+        "Color": "Blue",
+        "Brand": "Westside"
+    },
+    {
+        "id": 3,
+        "product_name": "Hand Bag",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 2400,
+        "Image": "https://ibb.co/StMhHYB",
+        "Color": "Black",
+        "Brand": "Nike"
+    },
+    {
+        "id": 4,
+        "product_name": "Girls top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1099,
+        "Size": "Medium",
+        "Image": "https://ibb.co/nQ8f7Dh",
+        "Color": "Blue",
+        "Brand": "Pepe Jeans"
+    },
+    {
+        "id": 5,
+        "product_name": "Girls top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1799,
+        "Size": "Small",
+        "Image": "https://ibb.co/LzX12MW",
+        "Color": "Black",
+        "Brand": "Vero Moda"
+    },
+    {
+        "id": 6,
+        "product_name": "Girls top",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1500,
+        "Size": "Small",
+        "Image": "https://ibb.co/ThXnrPS",
+        "Color": "Blue",
+        "Brand": "Zara"
+    },
+    {
+        "id": 7,
+        "product_name": "Shoes for men",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 5999,
+        "Size": "Large",
+        "Image": "https://i.ibb.co/GcDsndg/f5.jpg",
+        "Color": "White",
+        "Brand": "Adidas"
+    },
+    {
+        "id": 8,
+        "product_name": "Shoes for men",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 9999,
+        "Size": "Large",
+        "Image": "https://i.ibb.co/Z6x9jf6/f6.jpg",
+        "Color": "White",
+        "Brand": "Nike"
+    },
+    {
+        "id": 9,
+        "product_name": "spectacle",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1200,
+        "Image": "https://i.ibb.co/yXTwmzS/f8.jpg",
+        "Color": "Black",
+        "Brand": "FastTrack"
+    },
+    {
+        "id": 10,
+        "product_name": "Watch",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 8000,
+        "Size": "Large",
+        "Image": "https://i.ibb.co/xCqjBq0/f9.jpg",
+        "Color": "Black",
+        "Brand": "Titan"
+    },
+    {
+        "id": 11,
+        "product_name": "Iron",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 3000,
+        "Image": "https://i.ibb.co/Tw9cXss/w6.jpg", 
+        "Color": "Blue",
+        "company": "Havells"
+    },
+    {
+        "id": 12,
+        "product_name": "Iron",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 4000,
+        "Image":"https://i.ibb.co/GHQjYvv/w7.jpg",
+        "Color": "Black",
+        "company": "Bajaj"
+    },
+    {
+        "id": 13,
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 1900,
+        "Image":"https://i.ibb.co/zVpzPGS/e1.jpg",
+        "Color": "Black",
+        "company": "Boat"
+    },
+    {
+        "id": 14,
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 3000,
+        "Image":"https://i.ibb.co/sJ9ggs6/e3.jpg",
+        "Color": "Black",
+        "company": "JBL"
+    },
+    {
+        "id": 15,
+        "product_name": "Earbuds",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 12000,
+        "Image":"https://i.ibb.co/xzcJMGf/e4.jpg",
+        "Color": "Sky Blue",
+        "company": "Sony"
+    },
+    {
+        "id": 16,
+        "product_name": "Smart TV",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 31000,
+        "Image":"https://i.ibb.co/BBnmgDM/e6.jpg",
+        "Color": "Black",
+        "company": "Redmi"
+    },
+    {
+        "id": 17,
+        "product_name": "Smart TV",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 51000,
+        "Image":"https://i.ibb.co/ZTxyN09/e8.jpg",
+        "Color": "Black",
+        "company": "LG"
+    },
+    {
+        "id": 18,
+        "product_name": "Smart TV",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 81000,
+        "Image":"https://i.ibb.co/9GhWRZR/e10.jpg",
+        "Color": "Black",
+        "company": "Samsung"
+    },
+    {
+        "id": 19,
+        "product_name": "Earbuds",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 9000,
+        "Image":"https://i.ibb.co/tcXrwXH/e2.jpg",
+        "Color": "Black",
+        "company": "JBL"
+    },
+    {
+        "id": 20,
+        "product_name": "Refrigerator",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 54200,
+        "Image":"https://i.ibb.co/tcXrwXH/e2.jpg",
+        "Color": "Black",
+        "company": "Samsung"
+    },
+    {
+        "id": 21,
+        "product_name": "Iphones 13 pro",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 139000,
+        "Image":"https://i.ibb.co/T2x7sk9/p2.jpg",
+        "Color": "Green",
+        "company": "Apple"
+    },
+    {
+        "id": 22,
+        "product_name": "Iphones 12",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 110000,
+        "Image":"https://ibb.co/PYZwtyv",
+        "Color": "Blue",
+        "company": "Apple"
+    },
+    {
+        "id": 23,
+        "product_name": "Oppo F21 Pro",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 41000,
+        "Image":"https://i.ibb.co/KwrQ6Kn/p11.jpg",
+        "Color": "Blue",
+        "company": "OPPO"
+    },
+    {
+        "id": 24,
+        "product_name": "Xiaomi 11T pro",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 36000,
+        "Image":"https://i.ibb.co/b6rCJLV/p4.jpg",
+        "Color": "Blue",
+        "company": "Xiaomi"
+    },
+    {
+        "id": 25,
+        "product_name": "Galaxy S22 Ultra",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 106000,
+        "Image":"https://i.ibb.co/42BGtpQ/p6.jpg",
+        "Color": "Black",
+        "company": "Samsung"
+    },
+    {
+        "id": 26,
+        "product_name": "Galaxy ZFlod 3",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 149000,
+        "Image":"https://i.ibb.co/vLYhz8X/p7.jpg",
+        "Color": "Black",
+        "company": "Samsung"
+    },
+    {
+        "id": 27,
+        "product_name": "Galaxy ZFlip 3",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 85000,
+        "Image":"https://i.ibb.co/JFMsLJP/p8.jpg",
+        "Color": "Black",
+        "company": "Samsung"
+    },
+    {
+        "id": 28,
+        "product_name": " Realme X7 max",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 21000,
+        "Image":"https://i.ibb.co/cDKhdb2/p9.jpg",
+        "Color": "Black",
+        "company": "Realme"
+    },
+    {
+        "id": 29,
+        "product_name": "Narzo 50",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 25000,
+        "Image":"https://i.ibb.co/xFsB6R3/p10.jpg",
+        "Color": "Black",
+        "company": "Realme"
+    },
+    {
+        "id": 30,
+        "product_name": "M33",
+        "category": "Phones",
+        "category_id": 3,
+        "Price": 25000,
+        "Image":"https://i.ibb.co/VvcRHZQ/p3.jpg",
+        "Color": "Green",
+        "company": "Samsung"
+    },
+    {
+        "id": 31,
+        "product_name": "Mustard Oil",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "1 litre",
+        "Price": 140,
+        "Image":"https://i.ibb.co/6Fxprg1/g1.jpg",
+        "company": "Fortune"
+    },
+    {
+        "id": 32,
+        "product_name": "Toor Dal",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "1 KG",
+        "Price": 120,
+        "Image":"https://i.ibb.co/bJFJHpP/g2.jpg",
+        "company": "Tata"
+    },
+    {
+        "id": 33,
+        "product_name": "Sugar",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "1 KG",
+        "Price": 43,
+        "Image":"https://i.ibb.co/jfRgt9G/g3.jpg",
+        "company": "Trust"
+    },
+    {
+        "id": 34,
+        "product_name": "Salt",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "1 KG",
+        "Price": 25,
+        "Image":"https://i.ibb.co/m9TG89m/g4.jpg",
+        "company": "Tata"
+    },
+    {
+        "id": 35,
+        "product_name": "Onion",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "1 KG",
+        "Price": 25,
+        "Image":"https://ibb.co/Gc54y5F",
+        "company": "Website"
+    },
+    {
+        "id": 36,
+        "product_name": "Turmric",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "1 KG",
+        "Price": 145,
+        "Image":"https://i.ibb.co/qWBnLcK/g6.jpg",
+        "company": "Catch"
+    },
+    {
+        "id": 37,
+        "product_name": "Flour",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "5 KG",
+        "Price": 145,
+        "Image":"https://i.ibb.co/gTSb95C/g7.jpg",
+        "company": "Aashirvaad"
+    },
+    {
+        "id": 38,
+        "product_name": "Rice",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "1 KG",
+        "Price": 75,
+        "Image":"https://i.ibb.co/PZbqJxW/g8.jpg",
+        "company": "Basmati"
+    },
+    {
+        "id": 39,
+        "product_name": "Potato",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "1 KG",
+        "Price": 25,
+        "Image":"https://i.ibb.co/bBBS6vN/g10.jpg",
+        "company": "Website"
+    },
+    {
+        "id": 40,
+        "product_name": "Almond",
+        "category": "Grocery",
+        "category_id": 4,
+        "Quantity": "1 KG",
+        "Price": 250,
+        "Image":"https://i.ibb.co/s3GMTZY/g9.jpg",
+        "company": "Anymoney"
+    },
+    {
+        "id": 41,
+        "product_name": "Bed",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 40000,
+        "Image":"https://i.ibb.co/G5DrvVn/h1.jpg",
+        "company": "Sunday Ortho Latex Mattress"
+    },
+    {
+        "id": 42,
+        "product_name": "Table",
+        "category": "Homes",
+        "category_id": 4,
+        "Price": 15000,
+        "Image":"https://i.ibb.co/sC2k4Xx/h2.jpg",
+        "company": "The Sleep Company"
+    },
+    {
+        "id": 43,
+        "product_name": "Table",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 15000,
+        "Image":"https://ibb.co/ypXGCxv",
+        "company": "The Haven Space"
+    },
+    {
+        "id": 44,
+        "product_name": "Table",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 15000,
+        "Image":"https://ibb.co/fxDP1MD",
+        "company": "The Haven Space"
+    },
+    {
+        "id": 45,
+        "product_name": "Wall Decorations",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 17000,
+        "Image":"https://i.ibb.co/86BxPsH/h4.jpg",
+        "company": "Ambiance Interior Design"
+    },
+    {
+        "id": 46,
+        "product_name": "Grinder",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 5000,
+        "Image":"https://i.ibb.co/HLZcszx/h5.jpg",
+        "company": "Philips"
+    },
+    {
+        "id": 46,
+        "product_name": "Kettle",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 2000,
+        "Image":"https://i.ibb.co/qsbsdjG/h6.jpg",
+        "company": "Croma"
+    },
+    {
+        "id": 47,
+        "product_name": "Cooker",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 2500,
+        "Image":"https://i.ibb.co/m5NTNrP/h7.jpg",
+        "company": "Hawkins"
+    },
+    {
+        "id": 48,
+        "product_name": "Beans Bags",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 1000,
+        "Image":"https://i.ibb.co/5BPWLn3/h8.jpg",
+        "company": "Giglick"
+    },
+    {
+        "id": 49,
+        "product_name": "Bed",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 80000,
+        "Image":"https://i.ibb.co/ykft0m4/h9.jpg",
+        "company": "The Sleep Company"
+    },
+    {
+        "id": 50,
+        "product_name": "Refrigerator",
+        "category": "Homes",
+        "category_id": 5,
+        "Price": 50000,
+        "Image":"https://i.ibb.co/tcXrwXH/e2.jpg",
+        "company": "Samsung"
+    },
+    {
+        "id": 51,
+        "product_name": "Bat",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 2000,
+        "Image":"https://i.ibb.co/c2XK64Z/t1.jpg",
+        "company": "Sanspareils Greenlands"
+    },
+    {
+        "id": 52,
+        "product_name": "Bat",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 2000,
+        "Image":"https://i.ibb.co/7XgfVcX/t2.jpg",
+        "company": "Sanspareils Greenlands"
+    },
+    {
+        "id": 53,
+        "product_name": "Ball",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 450,
+        "Image":"https://i.ibb.co/887dZ6x/t3.jpg",
+        "company": "Sanspareils Greenlands"
+    },
+    {
+        "id": 54,
+        "product_name": "Ball",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 2000,
+        "Image":"https://i.ibb.co/25WHyhp/t4.jpg",
+        "company": "Sanspareils Greenlands"
+    },
+    {
+        "id": 55,
+        "product_name": "Toys",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 2000,
+        "Image":"https://i.ibb.co/WV0FpGG/t5.jpg",
+        "company": "Ariro"
+    },
+    {
+        "id": 56,
+        "product_name": "Toys",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 1000,
+        "Image":"https://i.ibb.co/1LS5hdq/t6.jpg",
+        "company": "Ariro"
+    },
+    {
+        "id": 57,
+        "product_name": "Toys",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 1200,
+        "Image":"https://i.ibb.co/fDszH9Y/t7.jpg",
+        "company": "Ariro"
+    },
+    {
+        "id": 58,
+        "product_name": "Beauty Products",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 8000,
+        "Image":"https://i.ibb.co/H2wC2Sf/t8.jpg",
+        "company": "Lakme"
+    },
+    {
+        "id": 59,
+        "product_name": "Beauty Products",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 8000,
+        "Image":"https://i.ibb.co/2WyGL2N/t9.jpg",
+        "company": "MJC"
+    },
+    {
+        "id": 60,
+        "product_name": "Beauty Products",
+        "category": "Beauty Toys & Mores",
+        "category_id": 6,
+        "Price": 8000,
+        "Image":"https://i.ibb.co/xS5FGv7/t11.jpg",
+        "company": "MJC"
+    }
+])
